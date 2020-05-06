@@ -1,0 +1,11 @@
+{
+  "name":"cra-template-testing",
+  "private": true,
+  "version": "1.0.0",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
+
